@@ -1,0 +1,2 @@
+C:\Users\Administrator.USER-20180207PP\Desktop\spire0308\obj\x86\Debug\Spire.Doc.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.USER-20180207PP\Desktop\spire0308\obj\x86\Debug\Spire.Doc.csproj.CoreCompileInputs.cache

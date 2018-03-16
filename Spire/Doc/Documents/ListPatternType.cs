@@ -1,0 +1,55 @@
+﻿namespace Spire.Doc.Documents
+{
+    using System;
+
+    public enum ListPatternType
+    {
+        Aiueo = 12,
+        AiueoFullWidth = 20,
+        Arabic = 0,
+        ArabicAbjad = 0x30,
+        ArabicAlpha = 0x2e,
+        Bullet = 0x17,
+        CardinalText = 6,
+        Chicago = 9,
+        ChineseCounting = 0x25,
+        ChineseCountingThousand = 0x27,
+        ChineseLegalSimplified = 0x26,
+        CustomType = 0x100,
+        DecimalEnclosedCircle = 0x12,
+        DecimalEnclosedCircleChinese = 0x1c,
+        DecimalEnclosedFullstop = 0x1a,
+        DecimalFullWidth = 14,
+        DecimalHalfWidth = 15,
+        Hebrew1 = 0x2d,
+        Hebrew2 = 0x2f,
+        IdeographDigital = 10,
+        IdeographEnclosedCircle = 0x1d,
+        IdeographLegalTraditional = 0x22,
+        IdeographTraditional = 30,
+        IdeographZodiac = 0x1f,
+        IdeographZodiacTraditional = 0x20,
+        Iroha = 13,
+        IrohaFullWidth = 0x15,
+        JapaneseCounting = 11,
+        JapaneseDigitalTenThousand = 0x11,
+        JapaneseLegal = 0x10,
+        KoreanCounting = 0x2a,
+        KoreanDigital = 0x29,
+        KoreanDigital2 = 0x2c,
+        KoreanLegal = 0x2b,
+        LeadingZero = 0x16,
+        LowLetter = 4,
+        LowRoman = 2,
+        None = 0xff,
+        Ordinal = 5,
+        OrdinalText = 7,
+        Special = 0x3a,
+        TaiwaneseCounting = 0x21,
+        TaiwaneseCountingThousand = 0x23,
+        TaiwaneseDigital = 0x24,
+        UpLetter = 3,
+        UpRoman = 1
+    }
+}
+

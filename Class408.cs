@@ -1,0 +1,61 @@
+﻿using System;
+
+internal class Class408 : Class407
+{
+    internal const string string_13 = "application/vnd.openxmlformats-officedocument.oleObject";
+    internal const string string_14 = "application/vnd.ms-excel";
+    internal const string string_15 = "application/vnd.ms-powerpoint";
+    internal const string string_16 = "application/msword";
+    internal const string string_17 = "application/vnd.openxmlformats-officedocument.wordprocessingml.document";
+    internal const string string_18 = "application/vnd.openxmlformats-officedocument.wordprocessingml.template";
+    internal const string string_19 = "application/vnd.ms-word.document.macroEnabled.12";
+    internal const string string_20 = "application/vnd.ms-word.template.macroEnabled.12";
+    internal const string string_21 = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
+    internal const string string_22 = "application/vnd.openxmlformats-officedocument.spreadsheetml.template";
+    internal const string string_23 = "application/vnd.ms-excel.sheet.macroEnabled.12";
+    internal const string string_24 = "application/vnd.ms-excel.template.macroEnabled.12";
+    internal const string string_25 = "application/vnd.ms-excel.sheet.binary.macroEnabled.12";
+    internal const string string_26 = "application/vnd.openxmlformats-officedocument.presentationml.presentation";
+    internal const string string_27 = "application/vnd.ms-powerpoint.presentation.macroEnabled.12";
+    internal const string string_28 = "application/vnd.openxmlformats-officedocument.presentationml.slideshow";
+    internal const string string_29 = "application/vnd.ms-powerpoint.slideshow.macroEnabled.12";
+    internal const string string_30 = "application/vnd.openxmlformats-officedocument.presentationml.slide";
+    internal const string string_31 = "application/vnd.ms-powerpoint.slide.macroEnabled.12";
+    internal const string string_32 = "application/vnd.openxmlformats-package.core-properties+xml";
+    internal const string string_33 = "application/vnd.openxmlformats-officedocument.extended-properties+xml";
+    internal const string string_34 = "application/vnd.openxmlformats-officedocument.custom-properties+xml";
+    internal const string string_35 = "application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml";
+    internal const string string_36 = "application/vnd.ms-word.document.macroEnabled.main+xml";
+    internal const string string_37 = "application/vnd.openxmlformats-officedocument.wordprocessingml.template.main+xml";
+    internal const string string_38 = "application/vnd.ms-word.template.macroEnabledTemplate.main+xml";
+    internal const string string_39 = "application/vnd.openxmlformats-officedocument.wordprocessingml.document.glossary+xml";
+    internal const string string_40 = "application/vnd.openxmlformats-officedocument.wordprocessingml.comments+xml";
+    internal const string string_41 = "application/vnd.openxmlformats-officedocument.wordprocessingml.fontTable+xml";
+    internal const string string_42 = "application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml";
+    internal const string string_43 = "application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml";
+    internal const string string_44 = "application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml";
+    internal const string string_45 = "application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml";
+    internal const string string_46 = "application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml";
+    internal const string string_47 = "application/vnd.openxmlformats-officedocument.wordprocessingml.webSettings+xml";
+    internal const string string_48 = "application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml";
+    internal const string string_49 = "application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml";
+    internal const string string_50 = "application/vnd.ms-office.vbaProject";
+    internal const string string_51 = "application/vnd.ms-word.vbaData+xml";
+    internal const string string_52 = "application/vnd.ms-office.vbaProjectSignature";
+    internal const string string_53 = "application/vnd.ms-word.keyMapCustomizations+xml";
+    internal const string string_54 = "application/vnd.ms-word.attachedToolbars";
+    internal const string string_55 = "application/vnd.openxmlformats-officedocument.theme+xml";
+    internal const string string_56 = "application/vnd.openxmlformats-officedocument.wordprocessingml.mailMergeRecipientData+xml";
+    internal const string string_57 = "application/vnd.openxmlformats-officedocument.customXmlProperties+xml";
+    internal const string string_58 = "application/vnd.openxmlformats-officedocument.drawingml.diagramData+xml";
+    internal const string string_59 = "application/vnd.openxmlformats-officedocument.drawingml.diagramLayout+xml";
+    internal const string string_60 = "application/vnd.openxmlformats-officedocument.drawingml.diagramStyle+xml";
+    internal const string string_61 = "application/vnd.openxmlformats-officedocument.drawingml.diagramColors+xml";
+    internal const string string_62 = "application/vnd.ms-office.drawingml.diagramDrawing+xml";
+    internal const string string_63 = "application/vnd.openxmlformats-officedocument.drawingml.chart+xml";
+    internal const string string_64 = "application/vnd.openxmlformats-officedocument.drawingml.chartshapes+xml";
+    internal const string string_65 = "application/vnd.ms-office.activeX+xml";
+    internal const string string_66 = "application/vnd.ms-office.activeX";
+    internal const string string_67 = "application/octet-stream";
+}
+

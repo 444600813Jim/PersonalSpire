@@ -1,0 +1,42 @@
+﻿using System;
+using System.Runtime.InteropServices;
+
+[AttributeUsage(AttributeTargets.Assembly), ComVisible(false)]
+public sealed class jp3E9FF5BED7F5 : Attribute
+{
+    private string a;
+    private bool b;
+    private int c;
+
+    public jp3E9FF5BED7F5(string a, int c, bool b)
+    {
+        this.a = a;
+        this.c = c;
+        this.b = b;
+    }
+
+    public string A
+    {
+        get
+        {
+            return this.a;
+        }
+    }
+
+    public bool B
+    {
+        get
+        {
+            return this.b;
+        }
+    }
+
+    public int C
+    {
+        get
+        {
+            return this.c;
+        }
+    }
+}
+
